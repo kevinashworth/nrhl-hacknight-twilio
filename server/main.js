@@ -1,5 +1,6 @@
 import { Meteor } from "meteor/meteor";
 import { onPageLoad } from "meteor/server-render";
+import './methods.js'
 
 Meteor.startup(() => {
   // Code to run on server startup.
