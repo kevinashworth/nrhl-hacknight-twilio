@@ -9,13 +9,13 @@
   },
   "dependencies": {
     "@babel/runtime": "7.12.5",
-    "bootstrap": "^4.5.2",
-    "jquery": "^3.5.1",
-    "meteor-node-stubs": "^1.0.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "reactstrap": "^8.6.0",
-    "twilio": "^3.49.2"
+    "bootstrap": "4.5.2",
+    "jquery": "3.5.1",
+    "meteor-node-stubs": "1.0.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "reactstrap": "8.6.0",
+    "twilio": "3.49.2"
   },
   "meteor": {
     "mainModule": {
