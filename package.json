@@ -12,8 +12,8 @@
     "bootstrap": "4.5.3",
     "jquery": "3.5.1",
     "meteor-node-stubs": "1.0.1",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "reactstrap": "8.8.0",
     "twilio": "3.49.2"
   },
