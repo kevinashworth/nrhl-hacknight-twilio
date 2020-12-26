@@ -15,7 +15,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "reactstrap": "8.8.0",
-    "twilio": "3.49.2"
+    "twilio": "3.54.1"
   },
   "meteor": {
     "mainModule": {
